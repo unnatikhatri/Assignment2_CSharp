@@ -1,0 +1,11 @@
+C:\Users\in\source\repos\Promact\bin\Debug\netcoreapp3.1\Promact.exe
+C:\Users\in\source\repos\Promact\bin\Debug\netcoreapp3.1\Promact.deps.json
+C:\Users\in\source\repos\Promact\bin\Debug\netcoreapp3.1\Promact.runtimeconfig.json
+C:\Users\in\source\repos\Promact\bin\Debug\netcoreapp3.1\Promact.runtimeconfig.dev.json
+C:\Users\in\source\repos\Promact\bin\Debug\netcoreapp3.1\Promact.dll
+C:\Users\in\source\repos\Promact\bin\Debug\netcoreapp3.1\Promact.pdb
+C:\Users\in\source\repos\Promact\obj\Debug\netcoreapp3.1\Promact.csprojAssemblyReference.cache
+C:\Users\in\source\repos\Promact\obj\Debug\netcoreapp3.1\Promact.AssemblyInfoInputs.cache
+C:\Users\in\source\repos\Promact\obj\Debug\netcoreapp3.1\Promact.AssemblyInfo.cs
+C:\Users\in\source\repos\Promact\obj\Debug\netcoreapp3.1\Promact.dll
+C:\Users\in\source\repos\Promact\obj\Debug\netcoreapp3.1\Promact.pdb
